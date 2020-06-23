@@ -1,0 +1,3 @@
+C:\Users\chris\OneDrive\Documents\Random Programs and Practice\JavaScript_Arrays\JavaScript_Arrays\obj\Debug\JavaScript_Arrays.njsprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Random Programs and Practice\JavaScript_Arrays\JavaScript_Arrays\obj\Debug\JavaScript_Arrays.njsproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\Random Programs and Practice\JavaScript_Arrays\JavaScript_Arrays\bin\Microsoft.NodejsTools.WebRole.dll

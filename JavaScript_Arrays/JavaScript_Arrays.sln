@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JavaScript_Arrays", "JavaScript_Arrays\JavaScript_Arrays.njsproj", "{5ECBB4E2-5F7A-4C7D-A481-918A11659116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECBB4E2-5F7A-4C7D-A481-918A11659116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECBB4E2-5F7A-4C7D-A481-918A11659116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECBB4E2-5F7A-4C7D-A481-918A11659116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECBB4E2-5F7A-4C7D-A481-918A11659116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {072873F0-C53B-4F2A-AAA9-951671EF3F08}
+	EndGlobalSection
+EndGlobal
